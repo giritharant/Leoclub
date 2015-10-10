@@ -2,10 +2,16 @@
 /*body{
   background-image: url('bg.jpg');
 }*/
+@font-face
+	{
+		font-family:'black caps';
+		src:url('blackcaps.ttf');
+	}
+
 .carousel
 	{
-		height:400px;
-		width:700px;
+		height:46%;
+		width:93%;
 	}
   .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
